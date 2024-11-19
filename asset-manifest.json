@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/MallManagement/static/css/main.96e98f73.css",
+    "main.js": "/MallManagement/static/js/main.11e4e4b8.js",
+    "static/js/453.2a4e2ebe.chunk.js": "/MallManagement/static/js/453.2a4e2ebe.chunk.js",
+    "static/media/imgage1.png": "/MallManagement/static/media/imgage1.3358b0449cd9062e2963.png",
+    "static/media/film.png": "/MallManagement/static/media/film.1aa3c52031feda7c64aa.png",
+    "static/media/m4.png": "/MallManagement/static/media/m4.2c1f14792588fbe425ab.png",
+    "static/media/m3.png": "/MallManagement/static/media/m3.88c167ee953aab915658.png",
+    "static/media/m1.png": "/MallManagement/static/media/m1.47c8421211a412eb52c5.png",
+    "static/media/m2.png": "/MallManagement/static/media/m2.eae5603802843fe2b8f5.png",
+    "static/media/person_1.jpg": "/MallManagement/static/media/person_1.3b349ed7d06859f8fc58.jpg",
+    "static/media/person_4.jpg": "/MallManagement/static/media/person_4.e140471939f87b3752ba.jpg",
+    "static/media/person_3.jpg": "/MallManagement/static/media/person_3.5fc16e3352daa95e18a3.jpg",
+    "static/media/person_2.jpg": "/MallManagement/static/media/person_2.9e118a766a1a194ae477.jpg",
+    "static/media/slick.svg": "/MallManagement/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/MallManagement/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/MallManagement/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/MallManagement/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/MallManagement/index.html",
+    "main.96e98f73.css.map": "/MallManagement/static/css/main.96e98f73.css.map",
+    "main.11e4e4b8.js.map": "/MallManagement/static/js/main.11e4e4b8.js.map",
+    "453.2a4e2ebe.chunk.js.map": "/MallManagement/static/js/453.2a4e2ebe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96e98f73.css",
+    "static/js/main.11e4e4b8.js"
+  ]
+}
